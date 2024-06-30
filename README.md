@@ -4,7 +4,7 @@ This Homebridge plugin allows you to control your thermostat controled the Rentl
 
 ## Completion
 
-**This plugin is still in devwlopment.**
+**This plugin is still in development.**
 
 ## Features
 
