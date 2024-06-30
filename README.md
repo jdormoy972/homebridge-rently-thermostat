@@ -2,6 +2,10 @@
 
 This Homebridge plugin allows you to control your thermostat controled the Rently app using HomeKit.
 
+## Completion
+
+**This plugin is still in devwlopment.**
+
 ## Features
 
 - Seamless thermostat integration with the HomeKit
